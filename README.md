@@ -1,2 +1,0 @@
-# humhub-tidio-module
-WIP
