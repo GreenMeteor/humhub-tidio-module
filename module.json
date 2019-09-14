@@ -5,10 +5,10 @@
     "description": "This module allows users to use Tidio customer chatting services.",
     "humhub": {
         "minVersion": "1.2",
-		"maxVersion": "1.3.*"
+	"maxVersion": "1.3.*"
     },
     "keywords": ["tidio", "module"],
-    "screenshots": ["assets/screen_1.jpg"],
+    "screenshots": ["assets/Screenshot_1.png", "assets/Screenshot_2.png"],
 	"homepage": "https://github.com/GreenMeteor/humhub-tidio-module",
     "authors": [
         {
